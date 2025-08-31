@@ -1,6 +1,6 @@
 public class conditional_ch_16 {
     public static void main(String[] args) {
-        int age = 19;
+        int age = 29;
         boolean cond = (age==18);
         if(cond){
        // if(age>18) {
